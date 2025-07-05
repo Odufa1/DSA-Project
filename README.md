@@ -11,6 +11,7 @@ A project analyzing customer review data using Microsoft Excel. The analysis inc
 - Summary statistics
 - Key insights and recommendations
 
+[AMAZON PRODUCT REVIEW ANALYSIS..xlsx](https://github.com/user-attachments/files/21082980/AMAZON.PRODUCT.REVIEW.ANALYSIS.xlsx)
 
 
 ---
@@ -19,7 +20,8 @@ A project analyzing customer review data using Microsoft Excel. The analysis inc
 
 An SQL-based case study analyzing sales and order status data to draw business insights.
 
-[Uploading Kultra Mega Store DB.sql…]()
+[Uploading Kultra Mega Store DB.sql.sql…]()
+
 
 
 ---
