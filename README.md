@@ -1,4 +1,4 @@
-# Data Analysis Projects (Excel & SQL)
+# DSA- Capstone-Projects (Excel & SQL)
 
 This repository contains two data analysis case studies completed as part of a data portfolio.
 
